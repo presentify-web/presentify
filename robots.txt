@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://presentify-web.github.io/sitemap.xml
+Sitemap: https://presentify-web.github.io/presentify/sitemap.xml
+
 
 
